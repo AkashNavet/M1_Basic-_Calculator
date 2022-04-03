@@ -4,3 +4,4 @@
 * Subtract
 * Division
 * Multiplication
+* Armstrong no
